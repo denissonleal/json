@@ -17,7 +17,7 @@ function storage_path()
 	return __DIR__;
 }
 
-require_once("Json.php");
+require_once("../Json.php");
 require_once("Resume.php");
 
 
